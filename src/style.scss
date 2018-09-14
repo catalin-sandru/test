@@ -1,0 +1,13 @@
+
+img {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  max-width: 250px;
+  max-height: auto;
+}
+
+.current-img {
+  max-width: 600px;
+  max-height: auto;
+}
